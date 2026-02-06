@@ -62,3 +62,6 @@ The system is designed to **look and behave like real commercial billing softwar
 - Project documentation (README)  
 
 ---
+
+Bill Management System
+
